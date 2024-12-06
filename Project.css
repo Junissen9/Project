@@ -1,0 +1,37 @@
+h1 {
+  text-align:center;
+  color: DarkMagenta;
+}
+
+#TitleText {
+  text-align:center;
+  font-size: 18pt;
+}
+
+p {
+  font-size: 12pt;
+}
+
+.boxdiv {
+  /*A blue box with rounded corners div*/
+  background-color: #B9E3DF;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+table {
+    border: 2px solid black;
+  border-collapse: collapse;
+  width: 400px;
+}
+
+	
+td {
+    text-align: center;
+    border: 1px solid grey;
+}
